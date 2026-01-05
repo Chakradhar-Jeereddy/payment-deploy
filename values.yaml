@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: 406682759639.dkr.ecr.us-east-1.amazonaws.com/roboshop/payment
-  imageVersion: 1.0.0
+  imageRepo: chakradhar05/payment
+  imageVersion: v1
 service:
   servicePort: 8080 # default value
